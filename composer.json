@@ -39,8 +39,8 @@
     },
     "repositories": [
         {
-            "type": "git",
-            "url":  "https://github.com/maniekx1984/Elastica.git"
+            "type": "vcs",
+            "url":  "github.com:maniekx1984/Elastica.git"
         }
     ],
     "suggest": {
