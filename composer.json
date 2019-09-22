@@ -19,7 +19,7 @@
         "symfony/property-access": "^3.4|^4",
         "pagerfanta/pagerfanta": "^1.0.5|^2.0",
         "psr/log": "^1.0",
-        "ruflin/elastica": "^5.3.5|^6.1.1"
+        "maniekx1984/elastica": "^7.0.0"
     },
     "require-dev": {
         "doctrine/orm": "^2.5",
@@ -37,6 +37,12 @@
         "friendsofphp/php-cs-fixer": "^2.2",
         "symfony/web-profiler-bundle": "^3.4|^4.0"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "https://github.com/maniekx1984/Elastica.git"
+        }
+    ],
     "suggest": {
         "enqueue/elastica-bundle": "The bundle adds extra features to FOSElasticaBundle bundle. Aimed to improve performance."
     },
