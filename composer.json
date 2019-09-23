@@ -13,8 +13,8 @@
     ],
     "repositories": [
         {
-            "type": "github",
-            "url":  "https://github.com/maniekx1984/Elastica"
+            "type": "git",
+            "url":  "https://github.com/maniekx1984/Elastica.git"
         }
     ],
     "require": {
