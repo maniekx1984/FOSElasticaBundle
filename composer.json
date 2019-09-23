@@ -11,6 +11,12 @@
         { "name": "Richard Miller", "email": "richard.miller@limethinking.co.uk" },
         { "name": "Jeremy Mikola", "email": "jmikola@gmail.com" }
     ],
+    "repositories": [
+        {
+            "type": "github",
+            "url":  "https://github.com/maniekx1984/Elastica"
+        }
+    ],
     "require": {
         "php": "^7.1",
         "symfony/framework-bundle": "^3.4|^4",
@@ -37,12 +43,6 @@
         "friendsofphp/php-cs-fixer": "^2.2",
         "symfony/web-profiler-bundle": "^3.4|^4.0"
     },
-    "repositories": [
-        {
-            "type": "git",
-            "url":  "https://github.com/maniekx1984/Elastica"
-        }
-    ],
     "suggest": {
         "enqueue/elastica-bundle": "The bundle adds extra features to FOSElasticaBundle bundle. Aimed to improve performance."
     },
