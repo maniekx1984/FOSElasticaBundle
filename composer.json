@@ -25,7 +25,7 @@
         "symfony/property-access": "^3.4|^4",
         "pagerfanta/pagerfanta": "^1.0.5|^2.0",
         "psr/log": "^1.0",
-        "maniekx1984/elastica": "^7.0.0"
+        "ruflin/elastica": "dev-master"
     },
     "require-dev": {
         "doctrine/orm": "^2.5",
