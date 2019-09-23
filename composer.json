@@ -17,6 +17,8 @@
             "url":  "https://github.com/maniekx1984/Elastica.git"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^7.1",
         "symfony/framework-bundle": "^3.4|^4",
@@ -56,7 +58,5 @@
         "branch-alias": {
             "dev-master": "5.1.x-dev"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
