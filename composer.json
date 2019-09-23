@@ -11,12 +11,6 @@
         { "name": "Richard Miller", "email": "richard.miller@limethinking.co.uk" },
         { "name": "Jeremy Mikola", "email": "jmikola@gmail.com" }
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url":  "https://github.com/maniekx1984/Elastica.git"
-        }
-    ],
     "require": {
         "php": "^7.1",
         "symfony/framework-bundle": "^3.4|^4",
