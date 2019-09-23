@@ -40,7 +40,7 @@
     "repositories": [
         {
             "type": "git",
-            "url":  "https://github.com/maniekx1984/Elastica.git"
+            "url":  "https://github.com/maniekx1984/Elastica"
         }
     ],
     "suggest": {
