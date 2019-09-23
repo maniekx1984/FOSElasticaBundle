@@ -43,6 +43,13 @@
         "friendsofphp/php-cs-fixer": "^2.2",
         "symfony/web-profiler-bundle": "^3.4|^4.0"
     },
+    "config": {
+        "preferred-install": {
+            "ruflin/elastica": "source",
+            "*": "dist"
+        },
+        "sort-packages": true
+    },
     "suggest": {
         "enqueue/elastica-bundle": "The bundle adds extra features to FOSElasticaBundle bundle. Aimed to improve performance."
     },
